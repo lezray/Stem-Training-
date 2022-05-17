@@ -1,3 +1,2 @@
-# Stem-Training-
+stem-training
 ##Day one
-learning markdown insalling python
