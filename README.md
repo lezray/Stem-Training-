@@ -8,3 +8,6 @@ Installing python
 -string
 -float
 -boal}true or false
+ basic operators
+  making a simple
+  ## day three
