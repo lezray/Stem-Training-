@@ -12,3 +12,13 @@ Installing python
   making a simple
   ## day three
   control flow,making a complex calculator
+## Day four
+lists 
+tuples
+sets
+## Day five
+kuccps training
+## Day six
+dictonaries
+editing txt files
+## Day seven
